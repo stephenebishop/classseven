@@ -1,0 +1,28 @@
+body {
+    background: lightskyblue
+}
+
+/* h1 {
+    Color: green;
+} */
+
+section h1 {
+    color: green;
+}
+
+.section-header h1 {
+    Color: orange;
+}
+
+.sectionone {
+    background-color: pink;
+    }
+
+table {
+    border-spacing: 50px 50px;
+    width: 100%
+}
+
+tbody {
+    background-color: white
+}
